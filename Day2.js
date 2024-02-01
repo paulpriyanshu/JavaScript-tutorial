@@ -1,3 +1,3 @@
 const newfunc=()=>{
-    console.log("hello")
+    console.log("hello done")
 }
