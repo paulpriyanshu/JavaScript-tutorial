@@ -1,4 +1,4 @@
-// let a=10
+// let a=10   -----------types of datas
 // //const a=10
 // a=5
 // //console.log(a)
@@ -6,9 +6,14 @@
 //   console.log(i)
 // }
 // console.log(i)
+//---------------------------------functions
+function sum(a,b){
+  let ans=a+b
+  return ans
 
+}
 console.log(sum(5,4))
-
+//-------------------------------data structures
 // let arr1=[1,2]
 // let arr=[
 //     {
@@ -23,11 +28,7 @@ console.log(sum(5,4))
 // let str="20"
 // let num=10
 // console.log(str+num)
-function sum(a,b){
-  let ans=a+b
-  return ans
 
-}
 
 
 
